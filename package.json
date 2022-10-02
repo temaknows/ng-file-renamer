@@ -1,0 +1,10 @@
+{
+  "name": "ng-file-renamer",
+  "version": "1.0.0",
+  "description": "rename bunch of *.component.* files with update meta info in *.component.ts",
+  "main": "index.js",
+  "bin": "./index.js",
+  "keywords": ["angular", "angular-helper", "script"],
+  "author": "Artem Zakarliuka",
+  "license": "ISC"
+}
